@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextToSpeechDemo</string>
+    <string name="_2_2">2*2</string>
+    <string name="answer">Answer</string>
+    <string name="check">Check</string>
+    <string name="question_no">Question No.</string>
+    <string name="score">Score</string>
+    <string name="your_answer">Your Answer</string>
+</resources>
